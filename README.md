@@ -2,7 +2,11 @@
 
 An intelligent chatbot that enables natural conversations about PDF documents using advanced RAG (Retrieval Augmented Generation) and agent-based architecture.
 
-## 🎯 Deliverables
+![Screenshot 2024-12-04 035341](https://github.com/user-attachments/assets/eb8d2082-838a-49f1-bc1d-af4398f915cf)
+
+![Screenshot 2024-12-04 183213](https://github.com/user-attachments/assets/d64d2218-b915-4c58-af32-a0bea486a993)
+
+ Deliverables
 
 ### 1. 🧠 Intelligent Agents
 - **User Agent (Using GroqLLM)**
